@@ -1,0 +1,27 @@
+Report Suite ID    ~~ otsrexultinowapprovdtcqa
+Page Name          ~~ rexulti > dtc > us > mdd > savings > register > thank-you
+Site Section       ~~ rexulti > dtc > us > mdd > savings > register > thank-you
+Current URL        ~~ http://rexultihcc20q2covidpostlaunch.test-otsuka.acsitefactory.com/us/mdd/savings/register/thank-you/
+Events             ~~ event9
+eVar1              ~~ 72705396183402303713432346755327832622
+eVar35             ~~ New
+eVar46             ~~ D=pageName
+eVar47             ~~ D=g
+eVar54             ~~ 76
+eVar61             ~~ 610
+eVar62             ~~ 4
+eVar63             ~~ D=c8
+eVar64             ~~ D=c60
+eVar66             ~~ 1280
+eVar69             ~~ D=c7
+eVar70             ~~ 0:12
+eVar72             ~~ D=c2
+eVar73             ~~ D=c3
+prop1              ~~ rexulti > dtc
+prop2              ~~ us
+prop3              ~~ mdd > savings > register > thank-you
+prop7              ~~ First Visit
+prop8              ~~ 1:30PM
+prop9              ~~ Monday
+prop24             ~~ Desktop
+prop60             ~~ 7/13/2020
